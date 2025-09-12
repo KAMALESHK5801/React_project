@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "image": "/images/product-1-1.webp",
+    "secondImage": "/images/product-1-2.webp",
+    "Productname": "Shield Conditioner",
+    "Price": "₹99.00",
+    "tag": "New"
+  },
+  {
+    "id": 2,
+    "image": "/images/product-2-1.webp",
+    "secondImage": "/images/product-2-2.webp",
+    "Productname": "Perfecting Facing Oil",
+    "Price": "₹99.00",
+    "oldprice": "₹110.00",
+    "tag": "Sale"
+  },
+  {
+    "id": 3,
+    "image": "/images/product-3-1.webp",
+    "secondImage": "/images/product-3-2.webp",
+    "Productname": "Enriched Hand & Body Wash",
+    "Price": "₹110.00",
+    "tag": "New"
+  },
+  {
+    "id": 4,
+    "image": "/images/product-4-1.webp",
+    "secondImage": "/images/product-4-2.webp",
+    "Productname": "Shield Shampoo",
+    "Price": "₹110.00",
+    "oldprice": "₹190.00",
+    "tag": "Sale"
+  },
+  {
+    "id": 5,
+    "image": "/images/product-5-1.webp",
+    "secondImage": "/images/product-5-2.jpg",
+    "Productname": "Enriched Hand Wash",
+    "Price": "₹110.00",
+    "oldprice": "₹190.00",
+    "tag": "Sale"
+  },
+  {
+    "id": 6,
+    "image": "/images/product-6-1.webp",
+    "secondImage": "/images/product-6-2.webp",
+    "Productname": "Enriched Duo",
+    "Price": "₹110.00"
+  },
+  {
+    "id": 7,
+    "image": "/images/product-7-1.webp",
+    "secondImage": "/images/product-7-2.webp",
+    "Productname": "Shield Spray",
+    "Price": "₹110.00"
+  },
+  {
+    "id": 8,
+    "image": "/images/product-8-1.webp",
+    "secondImage": "/images/product-8-2.webp",
+    "Productname": "Nourishing Eye Cream",
+    "Price": "₹110.00"
+  },
+  {
+    "id": 9,
+    "image": "/images/product-9-1.webp",
+    "secondImage": "/images/product-9-2.webp",
+    "Productname": "Nourishing Moisture Mask",
+    "Price": "₹110.00"
+  },
+  {
+    "id": 10,
+    "image": "/images/product-10-1.webp",
+    "secondImage": "/images/product-10-2.webp",
+    "Productname": "Moisturizing Polishing Treatment",
+    "Price": "₹110.00",
+    "oldprice": "₹190.00",
+    "tag": "Sale"
+  },
+  {
+    "id": 11,
+    "image": "/images/product-11-1.webp",
+    "secondImage": "/images/product-11-2.webp",
+    "Productname": "Scalp Moisturizing Cream",
+    "Price": "₹210.00"
+  },
+  {
+    "id": 12,
+    "image": "/images/product-12-1.webp",
+    "secondImage": "/images/product-12-2.webp",
+    "Productname": "Natural Coconut Cleansing Oil",
+    "Price": "₹299.00"
+  },
+  {
+    "id": 13,
+    "image": "/images/product-13-1.webp",
+    "secondImage": "/images/product-13-2.webp",
+    "Productname": "Sideway Travel Case Set",
+    "Price": "₹110.00"
+  },
+  {
+    "id": 14,
+    "image": "/images/product-14-1.webp",
+    "secondImage": "/images/product-14-2.webp",
+    "Productname": "Untangling Comb",
+    "Price": "₹210.00",
+    "oldprice": "₹290.00",
+    "tag": "Sale"
+  },
+  {
+    "id": 15,
+    "image": "/images/product-15-1.webp",
+    "secondImage": "/images/product-15-2.webp",
+    "Productname": "Vacation Travel Case Set",
+    "Price": "₹110.00",
+    "oldprice": "₹190.00",
+    "tag": "Sale"
+  },
+  {
+    "id": 16,
+    "image": "/images/product-16-1.webp",
+    "secondImage": "/images/product-16-2.webp",
+    "Productname": "Vaulted Mirror",
+    "Price": "₹99.00",
+    "oldprice": "₹110.00",
+    "tag": "Sale"
+  }
+]
