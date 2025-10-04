@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 
 //Data
-import products from './../../Product.json';
+import products from '../../Product.json';
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay, EffectFade, Navigation } from "swiper/modules";
 import "swiper/css";
