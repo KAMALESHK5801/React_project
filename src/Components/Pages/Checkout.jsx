@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import { ToastContainer, toast } from "react-toastify";
+import images from "../../utils/images";
 
 function Checkout() {
   const [deliveryOption, setDeliveryOption] = useState("ship");
@@ -273,7 +274,7 @@ function Checkout() {
                     className="d-flex align-items-center mb-3 border-bottom pb-2"
                   >
                     <img
-                      src={item.image}
+                      src={images[item.image]}
                       className="rounded"
                       width="60"
                       height="60"

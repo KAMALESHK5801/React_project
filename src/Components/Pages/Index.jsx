@@ -34,6 +34,7 @@ import socialImage2 from './../../assets/social-image-2.jpg';
 import socialImage3 from './../../assets/social-image-3.jpg';
 import socialImage4 from './../../assets/social-image-4.jpg';
 import socialImage5 from './../../assets/social-image-5.jpg';
+import images from "../../utils/images";
 
 
 function Index() {
@@ -168,9 +169,9 @@ function Index() {
               <SwiperSlide key={product.id}>
                 <div className="product-item text-center position-relative">
                   <div className="product-image w-100 position-relative overflow-hidden">
-                    <img src={product.image} className="img-fluid" alt="#" />
+                    <img src={images[product.image]} className="img-fluid" alt="#" />
                     <img
-                      src={product.secondImage}
+                      src={images[product.secondImage]}
                       className="img-fluid"
                       alt="#"
                     />
@@ -358,12 +359,12 @@ function Index() {
                         <div className="product-item mb-5 text-center position-relative">
                           <div className="product-image w-100 position-relative overflow-hidden">
                             <img
-                              src={product.image}
+                              src={images[product.image]}
                               alt="product"
                               className="img-fluid"
                             />
                             <img
-                              src={product.secondImage}
+                              src={images[product.secondImage]}
                               className="img-fluid"
                               alt="product"
                             />

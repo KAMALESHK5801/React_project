@@ -5,6 +5,7 @@ import "react-toastify/dist/ReactToastify.css";
 // Data
 import productsData from '../../Product.json';
 import { Link, useNavigate } from "react-router-dom";
+import images from "../../utils/images";
 
 function Shop() {
 
@@ -100,9 +101,9 @@ function Shop() {
                             <div className="col-md-3 mb-4" key={product.id}>
                                 <div className="product-item text-center position-relative">
                                     <div className="product-image w-100 position-relative overflow-hidden">
-                                        <img src={product.image} className="img-fluid" alt="#" />
+                                        <img src={images[product.image]} className="img-fluid" alt="#" />
                                         <img
-                                            src={product.secondImage}
+                                            src={images[product.secondImage]}
                                             className="img-fluid"
                                             alt="#"
                                         />

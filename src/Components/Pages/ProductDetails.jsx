@@ -8,6 +8,7 @@ import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/effect-fade";
 import { Link, useParams } from 'react-router-dom';
+import images from '../../utils/images';
 
 function ProductDetails() {
     const { id } = useParams();
@@ -19,8 +20,8 @@ function ProductDetails() {
 
     useEffect(() => {
         if(product) {
-            setMainImage(product.image);
-            setImages([product.image, product.secondImage].filter(Boolean));
+            setMainImage(images[product.image]);
+            setImages([images[product.image], images[product.secondImage]].filter(Boolean));
             setQuantity(1)
         }
     }, [product]);

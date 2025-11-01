@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import { ToastContainer, toast } from "react-toastify";
+import images from "../../utils/images";
 
 function Cart() {
   const [cartItems, setCartItems] = useState([]);
@@ -70,7 +71,7 @@ function Cart() {
                   <div className="row align-items-center">
                     <div className="col-3">
                       <img
-                        src={item.image}
+                        src={images[item.image]}
                         className="img-fluid rounded-3"
                         alt=""
                       />

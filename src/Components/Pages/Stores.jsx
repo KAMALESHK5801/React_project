@@ -31,8 +31,8 @@ function Stores() {
                         <div className="row">
                             <div className="col-md-6 mb-4">
                                 <h5 className="subtitle fw-semibold mb-4">Address</h5>
-                                <p className="text-muted mb-0">3232 About Kinney</p>
-                                <p className="text-muted">PH Venice.CA</p>
+                                <p className="text-muted mb-0">#401, 7th Street, GES Complex,</p>
+                                <p className="text-muted">Gandhipuram, Coimbatore.</p>
                                 <a href="#" className='underline-line text-black'>Get Direction</a>
                             </div>
 
@@ -54,7 +54,7 @@ function Stores() {
                                 <h5 className="subtitle fw-semibold mb-4">Contact</h5>
                                 <p className='text-muted mb-0'>Mobile: <strong className='text-dark'>+91 0987654321</strong></p>
                                 <p className='text-muted mb-0'>Mobile: <strong className='text-dark'>044-21212121</strong></p>
-                                <p className="text-muted">E-mail: hello@grace.com</p>
+                                <p className="text-muted">E-mail: hello@gmail.com</p>
 
                             </div>
 
@@ -81,8 +81,8 @@ function Stores() {
                     <div className="row">
                         <div className="col-md-6 mb-4">
                             <h5 className="subtitle fw-semibold mb-4">Address</h5>
-                            <p className="text-muted mb-0">34222 About kinney</p>
-                            <p className="text-muted mb-0">PH Venice, CA</p>
+                            <p className="text-muted mb-0">#401, 7th Street, GES Complex,</p>
+                            <p className="text-muted mb-0">Gandhipuram, Coimbatore.</p>
                             <a href="#" className='underline-line text-black'>Get Direction</a>
                         </div>
                         <div className="col-md-6 mb-4">

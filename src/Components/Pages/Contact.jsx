@@ -15,8 +15,8 @@ function Contact() {
                     <div className="contact-box bg-transparent border-0">
                         <i className="ri-map-pin-line icon"></i>
                         <h5>Address</h5>
-                        <p>Random IT Solutions, 2nd Floor, Siddharth Complex,</p>
-                        <p className="mb-4">Alkapuri, Vadodara, Gujarat - 39002</p>
+                        <p>#401, 7th Street, GES Complex,</p>
+                        <p className="mb-4">Gandhipuram, Coimbatore - 12</p>
                         <a href="#" target='_blank' rel="noopener noreferrer" className="link">Get Direction</a>
                     </div>
                 </div>
@@ -28,7 +28,7 @@ function Contact() {
                         <h5>Contact</h5>
                         <p><strong>Mobile:</strong> +91 0987654321</p>
                         <p><strong>Lane line:</strong> 4576-212121</p>
-                        <p><strong>E-Mail</strong> support@ourteam.com</p>
+                        <p><strong>E-Mail</strong> youremail@gmail.com</p>
 
 
                     </div>
